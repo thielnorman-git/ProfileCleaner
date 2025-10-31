@@ -1,0 +1,8 @@
+{
+    "Label": "UPMProfileCleanup",
+    "Type": "UPMCleanup",
+    "SubFolder": "UPM_Profile",
+    "DaysOld": 30,
+    "Enabled": true,
+    "Description": "Entfernt UPM-Profile die älter als 30 Tage sind. Arbeitet auf dem Basis-Pfad."
+}

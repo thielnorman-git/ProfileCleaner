@@ -1,0 +1,55 @@
+﻿[2025-10-31 10:45:06][INFO] [INFO] === Starte Profilprüfung: 'DMSTempFolder' in 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\' (Subfolder: 'UPM_Profile\AppData\Roaming\DMSTempFolder') ===
+[2025-10-31 10:45:06][WARN] [WARN] Keine gültigen Ziele für 'DMSTempFolder' gefunden oder Abbruch erkannt.
+[2025-10-31 10:45:06][INFO] [INFO] Job 'DMSTempFolder' abgeschlossen (0 Treffer).
+[2025-10-31 10:45:07][INFO] [INFO] === Starte Profilprüfung: 'excluded-BasisApp' in 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\' (Subfolder: 'UPM_Profile\AppData\Local\Basis') ===
+[2025-10-31 10:45:07][WARN] [WARN] Keine gültigen Ziele für 'excluded-BasisApp' gefunden oder Abbruch erkannt.
+[2025-10-31 10:45:07][INFO] [INFO] Job 'excluded-BasisApp' abgeschlossen (0 Treffer).
+[2025-10-31 10:45:08][INFO] [INFO] === Starte Profilprüfung: 'excluded-Downloads' in 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\' (Subfolder: 'UPM_Profile\Downloads') ===
+[2025-10-31 10:45:08][INFO] [INFO] Gefunden: 4 Zielordner für 'excluded-Downloads'.
+[2025-10-31 10:45:09][DEBUG] [DEBUG] Analysiere Pfad: D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\jguth.helios-dom.Win2016x64v6\UPM_Profile\Downloads
+[2025-10-31 10:45:09][WARN] [WARN] Trockenlauf: würde löschen 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\jguth.helios-dom.Win2016x64v6\UPM_Profile\Downloads' (5.39 MB)
+[2025-10-31 10:45:09][DEBUG] [DEBUG] Analysiere Pfad: D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\m.roth.helios-dom.Win2019x64v6\UPM_Profile\Downloads
+[2025-10-31 10:45:09][DEBUG] [DEBUG] Übersprungen (leer oder 0 MB): 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\m.roth.helios-dom.Win2019x64v6\UPM_Profile\Downloads'
+[2025-10-31 10:45:10][DEBUG] [DEBUG] Analysiere Pfad: D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\pfkpfeifm.helios-dom.Win2022x64v6\UPM_Profile\Downloads
+[2025-10-31 10:45:10][WARN] [WARN] Trockenlauf: würde löschen 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\pfkpfeifm.helios-dom.Win2022x64v6\UPM_Profile\Downloads' (917.53 MB)
+[2025-10-31 10:45:10][DEBUG] [DEBUG] Analysiere Pfad: D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\robert.buese.helios-dom.Win2019x64v6\UPM_Profile\Downloads
+[2025-10-31 10:45:10][DEBUG] [DEBUG] Übersprungen (leer oder 0 MB): 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\robert.buese.helios-dom.Win2019x64v6\UPM_Profile\Downloads'
+[2025-10-31 10:45:11][INFO] [INFO] === Simulation abgeschlossen: 4 Ordner geprüft, gesamt 922.92 MB ===
+[2025-10-31 10:45:11][INFO] [INFO] CSV-Report: C:\Skripte\_Development\ProfileCleaner\Logs\Session-2025-10-31_10-43\Cleanup-excluded-Downloads-2025-10-31_10-45.csv
+[2025-10-31 10:45:11][INFO] [INFO] Job 'excluded-Downloads' abgeschlossen.
+[2025-10-31 10:45:12][INFO] [INFO] === Starte Profilprüfung: 'excluded-FirefoxProfiles' in 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\' (Subfolder: 'UPM_Profile\AppData\Roaming\Mozilla\Firefox\Profiles') ===
+[2025-10-31 10:45:12][WARN] [WARN] Keine gültigen Ziele für 'excluded-FirefoxProfiles' gefunden oder Abbruch erkannt.
+[2025-10-31 10:45:12][INFO] [INFO] Job 'excluded-FirefoxProfiles' abgeschlossen (0 Treffer).
+[2025-10-31 10:45:13][INFO] [INFO] === Starte Profilprüfung: 'excluded-LoyHutz-App' in 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\' (Subfolder: 'UPM_Profile\AppData\Local\LoyHutz') ===
+[2025-10-31 10:45:13][WARN] [WARN] Keine gültigen Ziele für 'excluded-LoyHutz-App' gefunden oder Abbruch erkannt.
+[2025-10-31 10:45:13][INFO] [INFO] Job 'excluded-LoyHutz-App' abgeschlossen (0 Treffer).
+[2025-10-31 10:45:14][INFO] [INFO] === Starte Profilprüfung: 'excluded-MSEdgeApplicationCache' in 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\' (Subfolder: 'UPM_Profile\AppData\Local\Microsoft\Edge\User Data\Default\Application Cache\Cache') ===
+[2025-10-31 10:45:14][WARN] [WARN] Keine gültigen Ziele für 'excluded-MSEdgeApplicationCache' gefunden oder Abbruch erkannt.
+[2025-10-31 10:45:15][INFO] [INFO] Job 'excluded-MSEdgeApplicationCache' abgeschlossen (0 Treffer).
+[2025-10-31 10:45:15][INFO] [INFO] === Starte Profilprüfung: 'excluded-MSEdgeCodeCacheJS' in 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\' (Subfolder: 'UPM_Profile\AppData\Local\Microsoft\Edge\User Data\Default\Code Cache\JS') ===
+[2025-10-31 10:45:16][WARN] [WARN] Keine gültigen Ziele für 'excluded-MSEdgeCodeCacheJS' gefunden oder Abbruch erkannt.
+[2025-10-31 10:45:16][INFO] [INFO] Job 'excluded-MSEdgeCodeCacheJS' abgeschlossen (0 Treffer).
+[2025-10-31 10:45:16][INFO] [INFO] === Starte Profilprüfung: 'excluded-MSEdgeDefaultCache' in 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\' (Subfolder: 'UPM_Profile\AppData\Local\Microsoft\Edge\User Data\Default\Cache') ===
+[2025-10-31 10:45:17][WARN] [WARN] Keine gültigen Ziele für 'excluded-MSEdgeDefaultCache' gefunden oder Abbruch erkannt.
+[2025-10-31 10:45:17][INFO] [INFO] Job 'excluded-MSEdgeDefaultCache' abgeschlossen (0 Treffer).
+[2025-10-31 10:45:18][INFO] [INFO] === Starte Profilprüfung: 'excluded-EdgeRoamingProfileCache' in 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\' (Subfolder: 'UPM_Profile\AppData\Roaming\edge-profile\Default\Cache') ===
+[2025-10-31 10:45:18][WARN] [WARN] Keine gültigen Ziele für 'excluded-EdgeRoamingProfileCache' gefunden oder Abbruch erkannt.
+[2025-10-31 10:45:18][INFO] [INFO] Job 'excluded-EdgeRoamingProfileCache' abgeschlossen (0 Treffer).
+[2025-10-31 10:45:19][INFO] [INFO] === Starte Profilprüfung: 'excluded-MSEdgeServiceWorkerCache' in 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\' (Subfolder: 'UPM_Profile\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage') ===
+[2025-10-31 10:45:19][WARN] [WARN] Keine gültigen Ziele für 'excluded-MSEdgeServiceWorkerCache' gefunden oder Abbruch erkannt.
+[2025-10-31 10:45:19][INFO] [INFO] Job 'excluded-MSEdgeServiceWorkerCache' abgeschlossen (0 Treffer).
+[2025-10-31 10:45:20][INFO] [INFO] === Starte Profilprüfung: 'excluded-MSEdgeSnapshots' in 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\' (Subfolder: 'UPM_Profile\AppData\Local\Microsoft\Edge\User Data\Snapshots') ===
+[2025-10-31 10:45:20][WARN] [WARN] Keine gültigen Ziele für 'excluded-MSEdgeSnapshots' gefunden oder Abbruch erkannt.
+[2025-10-31 10:45:21][INFO] [INFO] Job 'excluded-MSEdgeSnapshots' abgeschlossen (0 Treffer).
+[2025-10-31 10:45:21][INFO] [INFO] === Starte Profilprüfung: 'excluded-roaming-iMedOne Cache' in 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\' (Subfolder: 'UPM_Profile\AppData\Roaming\iMedOne') ===
+[2025-10-31 10:45:21][WARN] [WARN] Keine gültigen Ziele für 'excluded-roaming-iMedOne Cache' gefunden oder Abbruch erkannt.
+[2025-10-31 10:45:22][INFO] [INFO] Job 'excluded-roaming-iMedOne Cache' abgeschlossen (0 Treffer).
+[2025-10-31 10:45:22][INFO] [INFO] === Starte Profilprüfung: 'excluded-WindowsWebCache' in 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\' (Subfolder: 'UPM_Profile\AppData\Local\Microsoft\Windows\WebCache') ===
+[2025-10-31 10:45:23][WARN] [WARN] Keine gültigen Ziele für 'excluded-WindowsWebCache' gefunden oder Abbruch erkannt.
+[2025-10-31 10:45:23][INFO] [INFO] Job 'excluded-WindowsWebCache' abgeschlossen (0 Treffer).
+[2025-10-31 10:45:24][INFO] [INFO] === Starte Profilprüfung: 'MicrosoftEdgeBackups' in 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\' (Subfolder: 'UPM_Profile\MicrosoftEdgeBackups') ===
+[2025-10-31 10:45:24][WARN] [WARN] Keine gültigen Ziele für 'MicrosoftEdgeBackups' gefunden oder Abbruch erkannt.
+[2025-10-31 10:45:24][INFO] [INFO] Job 'MicrosoftEdgeBackups' abgeschlossen (0 Treffer).
+[2025-10-31 10:45:25][INFO] [INFO] === Starte Profilprüfung: 'NCHSoftwareFolder' in 'D:\CTX-Profiles\_ZDTEST-ProfileCleanUp\CTX-Profiles\ZDRS\' (Subfolder: 'UPM_Profile\AppData\Roaming\NCH Software') ===
+[2025-10-31 10:45:25][WARN] [WARN] Keine gültigen Ziele für 'NCHSoftwareFolder' gefunden oder Abbruch erkannt.
+[2025-10-31 10:45:25][INFO] [INFO] Job 'NCHSoftwareFolder' abgeschlossen (0 Treffer).

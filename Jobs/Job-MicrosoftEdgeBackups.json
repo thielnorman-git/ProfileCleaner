@@ -1,0 +1,10 @@
+{
+    "Label": "MicrosoftEdgeBackups",
+    "Type": "ProfileFolder",
+    "SubFolder": "UPM_Profile\\MicrosoftEdgeBackups",
+    "RootPaths": [
+         "CTX-Profiles\\ZDRS\\",
+        "CTX-Profiles\\ZDRW\\"
+    ],
+    "Enabled": true
+}

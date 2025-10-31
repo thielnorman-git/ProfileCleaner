@@ -1,0 +1,10 @@
+{
+    "Label": "excluded-LoyHutz-App",
+    "Type": "ProfileFolder",
+    "SubFolder": "UPM_Profile\\AppData\\Local\\LoyHutz",
+    "RootPaths": [
+        "CTX-Profiles\\ZDRS\\",
+        "CTX-Profiles\\ZDRW\\"
+    ],
+    "Enabled": true
+}

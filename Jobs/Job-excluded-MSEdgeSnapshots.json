@@ -1,0 +1,10 @@
+{
+    "Label": "excluded-MSEdgeSnapshots",
+    "Type": "ProfileFolder",
+    "SubFolder": "UPM_Profile\\AppData\\Local\\Microsoft\\Edge\\User Data\\Snapshots",
+    "RootPaths": [
+         "CTX-Profiles\\ZDRS\\",
+        "CTX-Profiles\\ZDRW\\"
+    ],
+    "Enabled": true
+}

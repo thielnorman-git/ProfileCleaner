@@ -1,0 +1,10 @@
+{
+    "Label": "excluded-MSEdgeCodeCacheJS",
+    "Type": "ProfileFolder",
+    "SubFolder": "UPM_Profile\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Code Cache\\JS",
+    "RootPaths": [
+        "CTX-Profiles\\ZDRS\\",
+        "CTX-Profiles\\ZDRW\\"
+    ],
+    "Enabled": true
+}

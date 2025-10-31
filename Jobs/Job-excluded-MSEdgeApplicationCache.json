@@ -1,0 +1,10 @@
+{
+    "Label": "excluded-MSEdgeApplicationCache",
+    "Type": "ProfileFolder",
+    "SubFolder": "UPM_Profile\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Application Cache\\Cache",
+    "RootPaths": [
+        "CTX-Profiles\\ZDRS\\",
+        "CTX-Profiles\\ZDRW\\"
+    ],
+    "Enabled": true
+}

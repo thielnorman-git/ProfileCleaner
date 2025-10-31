@@ -1,0 +1,10 @@
+{
+    "Label": "NCHSoftwareFolder",
+    "Type": "ProfileFolder",
+    "SubFolder": "UPM_Profile\\AppData\\Roaming\\NCH Software",
+    "RootPaths": [
+        "CTX-Profiles\\ZDRS\\",
+        "CTX-Profiles\\ZDRW\\"
+    ],
+    "Enabled": true
+}
