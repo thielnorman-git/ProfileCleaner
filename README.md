@@ -19,7 +19,7 @@ PowerShell-basiertes Tool zur automatisierten Bereinigung von Citrix UPM-Profile
 
 ```powershell
 # 1. In Projekt-Verzeichnis wechseln
-cd C:\tmp\ProfileCleaner\ProfileCleaner
+cd C:\<Pfad zum Projektverzeichnis ProfileCleaner>\
 
 # 2. GUI starten
 .\GUI\Start-GUI.ps1
@@ -55,7 +55,6 @@ ProfileCleaner\
 │   └── Session-2025-10-30_14-30\
 │       ├── ProfileCleaner.log
 │       ├── Cleanup-*.csv
-│       ├── UPM_Cleanup-*.csv
 │       ├── Merged_SessionData.csv
 │       └── Merged_SessionData.html
 │
@@ -305,7 +304,7 @@ Internes Tool - Keine externe Lizenz
 
 ## 👨‍💻 Autor
 
-ProfileCleaner Team - Oktober 2025
+Norman Thiel - Oktober 2025
 
 ---
 
